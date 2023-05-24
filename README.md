@@ -1,9 +1,7 @@
+<h1 align="center">Hello there! 👋</h1>
 <h3 align="center">I'm Samuel. I'm currently studying Applied Informatics at Faculty of Electrical Engineering and Information Technology of STU in Bratislava. I currently work with HTML, PHP, SQL, JavaScript and Java.</h3>
 
-
 - Final Team Assignment [Math Problem Generator](https://github.com/SamuelMatuska/MathProblemGenerator_app)
-
-- Linktree [https://linktr.ee/samuelko.yak](https://linktr.ee/samuelko.yak)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
